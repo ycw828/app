@@ -1,0 +1,9 @@
+/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o: In function `_start':
+/build/glibc-qbmteM/glibc-2.21/csu/../sysdeps/x86_64/start.S:114: undefined reference to `main'
+collect2: error: ld returned 1 exit status
+Test3.c:1:20: warning: extra tokens at end of #include directive
+  #include<stdio.h> int main(){ printf("ni hao \n"); return 0; } 
+                    ^
+/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o: In function `_start':
+/build/glibc-qbmteM/glibc-2.21/csu/../sysdeps/x86_64/start.S:114: undefined reference to `main'
+collect2: error: ld returned 1 exit status
